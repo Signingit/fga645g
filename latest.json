@@ -1,6 +1,1 @@
-{
-  "version": "1.7.1",
-  "code": 2,
-  "notes": "联网更新链路测试",
-  "url": "https://github.com/Signingit/fga645g/releases/download/v1.7.1/mingmou_v1.7.1.apk"
-}
+{"version":"1.7.2","code":3,"notes":"完整升级链路验证：检查更新 → 下载 → 安装","url":"https://github.com/Signingit/fga645g/releases/download/v1.7.2/mingmou_v1.7.2.apk"}
